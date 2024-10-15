@@ -39,14 +39,22 @@
     
     <h2>Applications</h2>
     <p>DCRE peut être utilisé dans divers domaines, notamment :</p>
+    <ul>
+        <li>Plateformes de streaming vidéo et musical</li>
+        <li>Sites de e-commerce</li>
+        <li>Systèmes d'apprentissage en ligne</li>
+        <li>Applications de réseaux sociaux</li>
+        <li>Outils de recherche et de découverte d'informations</li>
+        <li>Systèmes de gestion de contenu</li>
+    </ul>
     
     <h2>Avantages</h2>
     <p>L'utilisation de DCRE apporte plusieurs avantages significatifs :</p>
     <ul>
         <li>Amélioration significative de l'expérience utilisateur</li>
-        <li>Augmentation de l'engagement </li>
+        <li>Augmentation de l'engagement et de la rétention</li>
         <li>Découverte de nouveaux intérêts pour les utilisateurs</li>
-        <li>Optimisation des recommendations</li>
+        <li>Optimisation des ventes et de la conversion pour les entreprises</li>
         <li>Gain de temps dans la recherche d'informations</li>
         <li>Suggestions de plus en plus précises au fil du temps</li>
     </ul>
@@ -61,7 +69,9 @@
     </ul>
     <p>En combinant recommandation dynamique et exploration cognitive, DCRE propose une approche innovante pour aider les utilisateurs à naviguer dans de vastes ensembles de données ou de produits, tout en leur permettant de découvrir de nouvelles opportunités alignées avec leurs intérêts. Ce système vise à améliorer l'expérience utilisateur en offrant des recommandations personnalisées et adaptatives, contribuant ainsi à l'évolution des systèmes de recommandation actuels.</p>
 
-    <a href="./about.html">à propos de DCRE</a>
+
+
+
 </body>
 </html>
     
